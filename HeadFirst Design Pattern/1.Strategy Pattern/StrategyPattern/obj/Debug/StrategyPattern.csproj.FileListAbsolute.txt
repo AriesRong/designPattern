@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\Y\Desktop\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\Y\Desktop\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\Y\Desktop\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\Y\Desktop\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb

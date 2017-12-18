@@ -1,0 +1,12 @@
+C:\Users\Y\Desktop\StrategyPattren\StrategyPattren\bin\Debug\StrategyPattren.exe.config
+C:\Users\Y\Desktop\StrategyPattren\StrategyPattren\bin\Debug\StrategyPattren.exe
+C:\Users\Y\Desktop\StrategyPattren\StrategyPattren\bin\Debug\StrategyPattren.pdb
+C:\Users\Y\Desktop\StrategyPattren\StrategyPattren\obj\Debug\StrategyPattren.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\StrategyPattren\StrategyPattren\obj\Debug\StrategyPattren.Form1.resources
+C:\Users\Y\Desktop\StrategyPattren\StrategyPattren\obj\Debug\StrategyPattren.Properties.Resources.resources
+C:\Users\Y\Desktop\StrategyPattren\StrategyPattren\obj\Debug\StrategyPattren.csproj.GenerateResource.Cache
+C:\Users\Y\Desktop\StrategyPattren\StrategyPattren\obj\Debug\StrategyPattren.exe
+C:\Users\Y\Desktop\StrategyPattren\StrategyPattren\obj\Debug\StrategyPattren.pdb
+D:\github\designPattern\BigTalk Design Pattern\1.Strategy Pattern\StrategyPattren\StrategyPattren\bin\Debug\StrategyPattren.exe.config
+D:\github\designPattern\BigTalk Design Pattern\1.Strategy Pattern\StrategyPattren\StrategyPattren\obj\Debug\StrategyPattren.exe
+D:\github\designPattern\BigTalk Design Pattern\1.Strategy Pattern\StrategyPattren\StrategyPattren\obj\Debug\StrategyPattren.pdb
