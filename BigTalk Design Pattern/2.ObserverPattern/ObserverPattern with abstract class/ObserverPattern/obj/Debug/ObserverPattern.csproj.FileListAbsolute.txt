@@ -1,0 +1,9 @@
+C:\Users\Y\Desktop\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\Y\Desktop\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\Y\Desktop\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\Y\Desktop\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\Y\Desktop\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
+D:\github\designPattern\BigTalk Design Pattern\2.ObserverPattern\ObserverPattern with abstract class\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+D:\github\designPattern\BigTalk Design Pattern\2.ObserverPattern\ObserverPattern with abstract class\ObserverPattern\obj\Debug\ObserverPattern.exe
+D:\github\designPattern\BigTalk Design Pattern\2.ObserverPattern\ObserverPattern with abstract class\ObserverPattern\obj\Debug\ObserverPattern.pdb
