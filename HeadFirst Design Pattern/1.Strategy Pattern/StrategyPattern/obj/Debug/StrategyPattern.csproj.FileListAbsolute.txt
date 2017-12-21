@@ -4,3 +4,6 @@ C:\Users\Y\Desktop\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
 C:\Users\Y\Desktop\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
 C:\Users\Y\Desktop\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
 C:\Users\Y\Desktop\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
+D:\github\designPattern\HeadFirst Design Pattern\1.Strategy Pattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+D:\github\designPattern\HeadFirst Design Pattern\1.Strategy Pattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+D:\github\designPattern\HeadFirst Design Pattern\1.Strategy Pattern\StrategyPattern\obj\Debug\StrategyPattern.pdb

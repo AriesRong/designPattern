@@ -10,3 +10,6 @@ C:\Users\Y\Desktop\StrategyPattren\StrategyPattren\obj\Debug\StrategyPattren.pdb
 D:\github\designPattern\BigTalk Design Pattern\1.Strategy Pattern\StrategyPattren\StrategyPattren\bin\Debug\StrategyPattren.exe.config
 D:\github\designPattern\BigTalk Design Pattern\1.Strategy Pattern\StrategyPattren\StrategyPattren\obj\Debug\StrategyPattren.exe
 D:\github\designPattern\BigTalk Design Pattern\1.Strategy Pattern\StrategyPattren\StrategyPattren\obj\Debug\StrategyPattren.pdb
+D:\github\designPattern\BigTalk Design Pattern\1.Strategy Pattern\StrategyPattren\bin\Debug\StrategyPattren.exe.config
+D:\github\designPattern\BigTalk Design Pattern\1.Strategy Pattern\StrategyPattren\obj\Debug\StrategyPattren.exe
+D:\github\designPattern\BigTalk Design Pattern\1.Strategy Pattern\StrategyPattren\obj\Debug\StrategyPattren.pdb
