@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\工厂模式\FactoryPattern\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+C:\Users\Y\Desktop\工厂模式\FactoryPattern\SimpleFactory\obj\Debug\SimpleFactory.exe
+C:\Users\Y\Desktop\工厂模式\FactoryPattern\SimpleFactory\obj\Debug\SimpleFactory.pdb
+D:\github\designPattern\HeadFirst Design Pattern\4.FactoryPattern\FactoryPattern\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+D:\github\designPattern\HeadFirst Design Pattern\4.FactoryPattern\FactoryPattern\SimpleFactory\obj\Debug\SimpleFactory.exe
+D:\github\designPattern\HeadFirst Design Pattern\4.FactoryPattern\FactoryPattern\SimpleFactory\obj\Debug\SimpleFactory.pdb

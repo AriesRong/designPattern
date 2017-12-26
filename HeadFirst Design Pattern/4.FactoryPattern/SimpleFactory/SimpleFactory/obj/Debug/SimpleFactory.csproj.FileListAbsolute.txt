@@ -1,0 +1,12 @@
+C:\Users\Y\Desktop\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+C:\Users\Y\Desktop\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe
+C:\Users\Y\Desktop\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.pdb
+C:\Users\Y\Desktop\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.exe
+C:\Users\Y\Desktop\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.pdb
+D:\可达鸭\2.自己代码\工厂模式\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+D:\可达鸭\2.自己代码\工厂模式\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.exe
+D:\可达鸭\2.自己代码\工厂模式\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.pdb
+D:\github\designPattern\HeadFirst Design Pattern\4.FactoryPattern\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+D:\github\designPattern\HeadFirst Design Pattern\4.FactoryPattern\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.exe
+D:\github\designPattern\HeadFirst Design Pattern\4.FactoryPattern\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.pdb

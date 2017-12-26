@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\AbstractFactory\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+C:\Users\Y\Desktop\AbstractFactory\SimpleFactory\obj\Debug\SimpleFactory.exe
+C:\Users\Y\Desktop\AbstractFactory\SimpleFactory\obj\Debug\SimpleFactory.pdb
+C:\Users\Y\Desktop\工厂模式\AbstractFactory\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+C:\Users\Y\Desktop\工厂模式\AbstractFactory\SimpleFactory\obj\Debug\SimpleFactory.exe
+C:\Users\Y\Desktop\工厂模式\AbstractFactory\SimpleFactory\obj\Debug\SimpleFactory.pdb

@@ -1,6 +1,6 @@
 # designPattern
 <div>
-<h2 style="color:FF00FF">1.StrategyPattern:</h2>
+<h2 style="color:FF00FF">1.Strategy Pattern:</h2>
 <p><strong>KeyWords</strong>：</p>
 <ul>
 <li><code>package</code></li>
@@ -10,7 +10,7 @@
 </div>
 
 <div>
-<h2 style="color:#FF00FF">2.ObserverPattern:</h2>
+<h2 style="color:#FF00FF">2.Observer Pattern:</h2>
 <p><strong>KeyWords:</strong></p>
 <ul>
 <li>one to many</li>
@@ -30,7 +30,7 @@
 </div>
 
 <div>
-<h2 style="color:FF00FF">3.DecoratorPattern</h2>
+<h2 style="color:FF00FF">3.Decorator Pattern</h2>
 <p><strong>KeyWords:</strong></p>
 <ul>
 <li>Componet</li>
@@ -43,5 +43,24 @@
 </ul>
 <li>virtual & abstract</li>
 <li><code>base</code></li>
+<li>inherit</li>
+</ul>
+</div>
+
+<div>
+<h2 style="color:FF00FF">4.Simple Factory Pattern</h2>
+<p><strong>KeyWords:</strong></p>
+<ul>
+<li></li>
+</ul>
+<h2 style="color:FF00FF">Factory Pattern</h2>
+<p><strong>KeyWords:</strong></p>
+<ul>
+<li></li>
+</ul>
+<h2 style="color:FF00FF">Abstract Factory Pattern</h2>
+<p><strong>KeyWords:</strong></p>
+<ul>
+<li></li>
 </ul>
 </div>

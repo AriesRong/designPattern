@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.exe.config
+C:\Users\Y\Desktop\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.exe
+C:\Users\Y\Desktop\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.pdb
+C:\Users\Y\Desktop\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.exe
+C:\Users\Y\Desktop\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.pdb

@@ -1,0 +1,18 @@
+C:\Users\Y\Desktop\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+C:\Users\Y\Desktop\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe
+C:\Users\Y\Desktop\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.pdb
+C:\Users\Y\Desktop\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.exe
+C:\Users\Y\Desktop\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.pdb
+C:\Users\Y\Desktop\SimpleFactory - 副本\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+C:\Users\Y\Desktop\SimpleFactory - 副本\SimpleFactory\obj\Debug\SimpleFactory.exe
+C:\Users\Y\Desktop\SimpleFactory - 副本\SimpleFactory\obj\Debug\SimpleFactory.pdb
+C:\Users\Y\Desktop\SimpleFactory - 副本\SimpleFactory\bin\Debug\SimpleFactory.exe
+C:\Users\Y\Desktop\SimpleFactory - 副本\SimpleFactory\bin\Debug\SimpleFactory.pdb
+C:\Users\Y\Desktop\SimpleFactory - 副本\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache
+D:\可达鸭\2.自己代码\工厂模式\SimpleFactory 2\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+D:\可达鸭\2.自己代码\工厂模式\SimpleFactory 2\SimpleFactory\obj\Debug\SimpleFactory.exe
+D:\可达鸭\2.自己代码\工厂模式\SimpleFactory 2\SimpleFactory\obj\Debug\SimpleFactory.pdb
+C:\Users\Y\Desktop\工厂模式\FactoryPattern\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+C:\Users\Y\Desktop\工厂模式\FactoryPattern\SimpleFactory\obj\Debug\SimpleFactory.exe
+C:\Users\Y\Desktop\工厂模式\FactoryPattern\SimpleFactory\obj\Debug\SimpleFactory.pdb
