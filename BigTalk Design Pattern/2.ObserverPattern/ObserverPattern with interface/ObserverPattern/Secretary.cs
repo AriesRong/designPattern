@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,13 +9,10 @@ namespace ObserverPattern
 {
     class Secretary : Subject
     {
-        private ArrayList observers;
+        //private ArrayList observers;
+        private List<Observer> observers = new List<Observer>();
         private string bossState;
-
-        public Secretary()
-        {
-            observers = new ArrayList();
-        }
+        
         public void notifyNumber()
         {
             foreach(Observer o in observers)

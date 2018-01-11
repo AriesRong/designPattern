@@ -1,0 +1,6 @@
+C:\Users\Y\Desktop\delegateLearn\delegateLearn\bin\Debug\delegateLearn.exe.config
+C:\Users\Y\Desktop\delegateLearn\delegateLearn\bin\Debug\delegateLearn.exe
+C:\Users\Y\Desktop\delegateLearn\delegateLearn\bin\Debug\delegateLearn.pdb
+C:\Users\Y\Desktop\delegateLearn\delegateLearn\obj\Debug\delegateLearn.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\delegateLearn\delegateLearn\obj\Debug\delegateLearn.exe
+C:\Users\Y\Desktop\delegateLearn\delegateLearn\obj\Debug\delegateLearn.pdb

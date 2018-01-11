@@ -1,22 +1,18 @@
 ﻿using System;
 using System.Collections;
-using System.Linq;
-using System.Text;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace ObserverPattern
 {
     class WeatherData : Subject
     {
-        private ArrayList observers;
+        private List<Observer> observers = new List<Observer>();
         private float temperature;
         private float humidity;
         private float pressure;
 
-        public WeatherData()
-        {
-            observers = new ArrayList();
-        }
+        
         public void notifyObserver()
         {
             foreach(Observer o in observers)

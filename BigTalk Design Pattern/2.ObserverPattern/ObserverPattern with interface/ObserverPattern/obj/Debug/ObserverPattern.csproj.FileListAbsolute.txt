@@ -10,3 +10,6 @@ D:\github\designPattern\BigTalk Design Pattern\2.ObserverPattern\ObserverPattern
 D:\github\designPattern\BigTalk Design Pattern\2.ObserverPattern\ObserverPattern with interface\ObserverPattern\bin\Debug\ObserverPattern.exe.config
 D:\github\designPattern\BigTalk Design Pattern\2.ObserverPattern\ObserverPattern with interface\ObserverPattern\obj\Debug\ObserverPattern.exe
 D:\github\designPattern\BigTalk Design Pattern\2.ObserverPattern\ObserverPattern with interface\ObserverPattern\obj\Debug\ObserverPattern.pdb
+D:\github\designPattern\BigTalk Design Pattern\2.ObserverPattern\ObserverPattern with interface\ObserverPattern\bin\Debug\ObserverPattern.exe
+D:\github\designPattern\BigTalk Design Pattern\2.ObserverPattern\ObserverPattern with interface\ObserverPattern\bin\Debug\ObserverPattern.pdb
+D:\github\designPattern\BigTalk Design Pattern\2.ObserverPattern\ObserverPattern with interface\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
