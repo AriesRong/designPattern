@@ -4,3 +4,6 @@ C:\Users\Y\Desktop\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
 C:\Users\Y\Desktop\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
 C:\Users\Y\Desktop\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
 C:\Users\Y\Desktop\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
+D:\github\designPattern\BigTalk Design Pattern\4.FactoryPattern\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+D:\github\designPattern\BigTalk Design Pattern\4.FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+D:\github\designPattern\BigTalk Design Pattern\4.FactoryPattern\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb

@@ -8,26 +8,21 @@ namespace SimpleFactory
 {
     class SimplePizzaFactory
     {
-        Pizza pizza;
         public Pizza createPizza(string type)
         {
-            if (type.Equals("cheese"))
+            switch (type)
             {
-                pizza = new CheesePizza();
+                case "cheese":
+                    return new CheesePizza();
+                case "veggie":
+                    return new VeggiePizza();
+                case "clam":
+                    return new ClamPizza(); ;
+                case "pepperoni":
+                    return new PepperoniPizza();
+                default:
+                    return null;
             }
-            else if (type.Equals("veggie"))
-            {
-                pizza = new VeggiePizza();
-            }
-            else if (type.Equals("clam"))
-            {
-                pizza = new ClamPizza();
-            }
-            else if (type.Equals("pepperoni"))
-            {
-                pizza = new PepperoniPizza();
-            }
-            return pizza;
         }
     }
 }
