@@ -4,3 +4,6 @@ C:\Users\Y\Desktop\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.
 C:\Users\Y\Desktop\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache
 C:\Users\Y\Desktop\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
 C:\Users\Y\Desktop\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+D:\github\designPattern\BigTalk Design Pattern\3.DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+D:\github\designPattern\BigTalk Design Pattern\3.DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+D:\github\designPattern\BigTalk Design Pattern\3.DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb

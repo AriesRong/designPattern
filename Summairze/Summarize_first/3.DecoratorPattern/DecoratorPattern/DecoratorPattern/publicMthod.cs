@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace DecoratorPattern
 {
-
-
-    public static class publicMthod
+    class publicMthod
     {
         public static double getSizePrice(string size)
         {
@@ -23,5 +21,4 @@ namespace DecoratorPattern
             }
         }
     }
-
 }
