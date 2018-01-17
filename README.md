@@ -51,16 +51,33 @@
 <h2 style="color:FF00FF">4.Simple Factory Pattern</h2>
 <p><strong>KeyWords:</strong></p>
 <ul>
-<li></li>
+<li>swithch{case:default;}</li>
 </ul>
 <h2 style="color:FF00FF">Factory Pattern</h2>
 <p><strong>KeyWords:</strong></p>
 <ul>
-<li></li>
+<li>Product</li>
+<ul><li>ConcreteProduct</li></ul>
+<li>abstract Product factoryMthod(string type)</li>
+<li>Creator(FactoryMthod:return Product)</li>
+<ul><li>ConcreteCreator(FactoryMthod:return Product)</li></ul>
 </ul>
 <h2 style="color:FF00FF">Abstract Factory Pattern</h2>
 <p><strong>KeyWords:</strong></p>
 <ul>
-<li></li>
+<li>Product Family</li>
+<li>AbstractFactory(return:AbstractProductA,AbstractProductB)</li>
+<ul>
+<li>AbstractFactory1(return:AbstractProductA,AbstractProductB)</li>
+<li>AbstractFactory2(return:AbstractProductA,AbstractProductB)</li>
+</ul>
+<li>AbstractProductA</li>
+<ul>
+<li>ProductA1</li><li>ProductA2</li>
+</ul>
+<li>AbstractProductB</li>
+<ul>
+<li>ProductB1</li><li>ProductB2</li>
+</ul>
 </ul>
 </div>
